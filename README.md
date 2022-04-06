@@ -1,4 +1,4 @@
-# Food-Order-App -React
+# Food-Order-App (React)
 
 An app for selecting dishes from a virtual menu and presenting the shopping cart to the customer.
 
