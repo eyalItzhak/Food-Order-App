@@ -34,7 +34,7 @@ View to customer before purchase.
 
 Taking details for delivery.
 
-![image](https://user-images.githubusercontent.com/62293316/163278829-2718262c-6c6f-4795-9750-95900c7aefd8.png)
+![image](https://user-images.githubusercontent.com/62293316/163280483-ed415cf2-5be1-4e0e-a3cd-048396d513a8.png)
 
 Updating the customer on the success of the transaction.
 
@@ -42,4 +42,4 @@ Updating the customer on the success of the transaction.
 
 Taking data form cart and sending it to the back end server.
 
-![Untitled](https://user-images.githubusercontent.com/62293316/163279272-aabaff80-306d-4568-930b-e5d59de9bc84.png)
+![image](https://user-images.githubusercontent.com/62293316/163280592-14d123ec-4f3c-4156-8d1f-0c1f297c9496.png)
