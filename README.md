@@ -43,3 +43,14 @@ Updating the customer on the success of the transaction.
 Taking data form cart and sending it to the back end server.
 
 ![image](https://user-images.githubusercontent.com/62293316/163280592-14d123ec-4f3c-4156-8d1f-0c1f297c9496.png)
+
+
+##  Reporting errors to the user
+
+Attempt to send data without full details.
+
+![image](https://user-images.githubusercontent.com/62293316/163280848-c702539c-6239-451d-b8ae-fa4936208c03.png)
+
+
+
+
